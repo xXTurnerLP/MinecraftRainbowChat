@@ -6,7 +6,7 @@ https://imgur.com/AHUsMcD <br>
 https://imgur.com/VUI0cAH
 
 # Requirements
-You must be on any 1.16 version!
+You must be on any 1.16 version! <br>
 You  require to be **op** and either have the *server console* or the server has to have *enabled command blocks* because the commands can be very long and the chat box will not be enough :)
 
 # Tutorial
