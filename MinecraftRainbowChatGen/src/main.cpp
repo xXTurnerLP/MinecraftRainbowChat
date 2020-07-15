@@ -97,8 +97,8 @@ int main() {
 		}
 	}
 
-	HGLOBAL hMem = GlobalAlloc(GMEM_MOVEABLE, mcCommand.size());
-	memcpy(GlobalLock(hMem), mcCommand.c_str(), mcCommand.size());
+	HGLOBAL hMem = GlobalAlloc(GMEM_MOVEABLE, mcCommand.size() + 1);
+	memcpy(GlobalLock(hMem), mcCommand.c_str(), mcCommand.size() + 1);
 	GlobalUnlock(hMem);
 
 	if (!OpenClipboard(GetActiveWindow())) {
