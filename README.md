@@ -1,6 +1,10 @@
 # About
 You can type rainbow text messages in the chat, in **vanilla minecraft**!
 
+### Screenshots:
+https://imgur.com/AHUsMcD
+https://imgur.com/VUI0cAH
+
 # Requirements
 You only require to be **op** and either have the *server console* or the server has to have *enabled command blocks* because the commands can be very long and the chat box will not be enough :)
 
