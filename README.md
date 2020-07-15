@@ -2,7 +2,7 @@
 You can type rainbow text messages in the chat, in **vanilla minecraft**!
 
 ### Screenshots:
-https://imgur.com/AHUsMcD
+https://imgur.com/AHUsMcD <br>
 https://imgur.com/VUI0cAH
 
 # Requirements
